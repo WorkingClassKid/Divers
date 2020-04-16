@@ -46,11 +46,7 @@ RBL CHECK
 ****************************************************************************************/
 function dnsbllookup($ip,$count){
 $dnsbl_lookup=array(
-    "dnsbl-1.uceprotect.net",
-    "dnsbl-2.uceprotect.net",
-    "dnsbl-3.uceprotect.net",
     "dnsbl.dronebl.org",
-    "dnsbl.sorbs.net",
     "zen.spamhaus.org",
     "b.barracudacentral.org",
     "cbl.abuseat.org",
